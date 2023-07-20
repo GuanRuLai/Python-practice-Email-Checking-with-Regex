@@ -13,5 +13,3 @@ check_email(email1)
 check_email(email2)
 check_email(email3)
 #%%
-
-#%%
